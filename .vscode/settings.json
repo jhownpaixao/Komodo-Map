@@ -1,6 +1,8 @@
 {
     "php.version": "v8.2",
-    "editor.fontFamily": "PTMono-Regular",
+    "phpcs.standard": "PSR2",
+    "phpfmt.psr2": true,
+    "phpfmt.indent_with_space": 4,
     "better-comments.tags": [
         {
           "tag": "!",
